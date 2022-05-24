@@ -9,8 +9,8 @@
     text-decoration: none;
     list-style-type: none;
 }
-body{
-    min-height: 100%;
+body, html{
+    height: 100%;
     overflow-x: hidden;
 }
 .wrapper{
@@ -21,12 +21,9 @@ body{
     margin: 0 auto;
 }
 .container{
-    max-width: 1100px;
+    width: 1100px;
+    margin: 0 auto;
 }
-
-
-
-
 
 /* Diffferent Settings */
 .image{

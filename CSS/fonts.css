@@ -34,14 +34,32 @@ h1{
     line-height: 72px;
     color: white;
 }
+h4{
+    font-family: "Oswald";
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 5%;
+}
+
 .sub__block__text{
     font-family: "OpenSans-Regular";
     font-size: 16px;
-    color: white;
 }
 .button-txt{
     font-family: "OpenSans-SemiBold";
     font-size: 16px;
     letter-spacing: 5%;
-    color: white;  
+}
+.adres, .email, .devoloper, .company{
+    font-family: "OpenSans-Regular";
+    font-size: 14px;
+}
+.footer_item{
+    font-family: "OpenSans-Regular";
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.phone, .email, .adres, .sub__block__text, .button-txt, .footer_item, .company, .devoloper{
+    color: white;
 }
