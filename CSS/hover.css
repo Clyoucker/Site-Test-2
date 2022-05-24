@@ -1,0 +1,9 @@
+a, button{
+    transition: all ease-in-out 0.25s;
+}
+a:hover{
+    color: rgb(59, 45, 93);
+}
+button:hover{
+    color: rgb(168, 176, 77);
+}
