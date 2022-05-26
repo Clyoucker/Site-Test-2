@@ -71,7 +71,7 @@ h4{
     font-family: "OpenSans-Regular";
     font-size: 14px;
 }
-.footer_item, .news-descriptions{
+.footer_item, .news-descriptions, .inside__text{
     font-family: "OpenSans-Regular";
     font-weight: 300;
     font-size: 14px;
@@ -82,4 +82,7 @@ h4{
 }
 .news-date{
     color: #979797;
+}
+.inside-text-project>h4{
+    color: #343434;
 }

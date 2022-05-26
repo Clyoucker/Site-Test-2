@@ -40,6 +40,10 @@ body, html{
     width: 50px;
     height: 50px;
 }
+.icon-but{
+    width: 50%;
+    height: 50%;
+}
 .button{
     display: flex;
     justify-content: center;

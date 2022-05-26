@@ -13,7 +13,7 @@
     justify-content: space-between;
     align-items: center;
 }
-.footer-top, .footer-middle-row ,.footer-botton{
+.footer-middle-row{
     position: relative;
 }
 .footer-middle-row{

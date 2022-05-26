@@ -18,6 +18,23 @@
 
 
 
+/* label */
+
+.labels{
+    display: flex;
+    gap: 2px;
+}
+.label-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 55px;
+    height: 55px;
+    border: 3px solid #005BC1;
+}
+
+
+
 /* Titles */
 
 .title{
@@ -60,6 +77,32 @@
 }
 .title-button-body{
 
+}
+
+/* Projects */
+
+.card-project{
+    position: relative;
+    width: 540px;
+    height: 400px;
+}
+.img__project{
+    filter: brightness(50%);
+}
+.card-inside-descriptin-project{
+    position: absolute;
+    padding: 20px 35px;
+    right: 35px;
+    bottom: 35px;
+    max-width: 250px;
+    min-height: 110px;
+    background-color: white;
+}
+.inside-text-project{
+    width: 200px;
+}
+.inside-text-project>h4{
+    margin-bottom: 12px;
 }
 
 /* Cards */
