@@ -55,8 +55,10 @@ h4{
     letter-spacing: 5%;
     color: white;
 }
-
-.sub__block__text{
+.news-title>h4{
+    color: #343434;
+}
+.sub__block__text, .news-date{
     font-family: "OpenSans-Regular";
     font-size: 16px;
 }
@@ -69,7 +71,7 @@ h4{
     font-family: "OpenSans-Regular";
     font-size: 14px;
 }
-.footer_item{
+.footer_item, .news-descriptions{
     font-family: "OpenSans-Regular";
     font-weight: 300;
     font-size: 14px;
@@ -77,4 +79,7 @@ h4{
 
 .phone, .email, .address, .sub__block__text, .button-txt, .footer_item, .company, .devoloper{
     color: white;
+}
+.news-date{
+    color: #979797;
 }
