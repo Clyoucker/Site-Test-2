@@ -48,6 +48,16 @@ h1{
     letter-spacing: 5%;
     color: #343434;
 }
+.rent__title{
+    font-family: "Oswald";
+    font-weight: 400;
+    font-size: 18px;
+}
+.equipment__description__title{
+    font-family: "Oswald";
+    font-weight: 400;
+    font-size: 16px;
+}
 h4{
     font-family: "Oswald";
     font-size: 18px;
@@ -67,7 +77,7 @@ h4{
     font-size: 16px;
     letter-spacing: 5%;
 }
-.address, .email, .devoloper, .company{
+.address, .email, .devoloper, .company, .equipment_item{
     font-family: "OpenSans-Regular";
     font-size: 14px;
 }
@@ -76,7 +86,10 @@ h4{
     font-weight: 300;
     font-size: 14px;
 }
-
+.rent{
+    font-family: "OpenSans-Regular";
+    font-size: 18px;
+}
 .phone, .email, .address, .sub__block__text, .button-txt, .footer_item, .company, .devoloper{
     color: white;
 }
