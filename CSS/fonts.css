@@ -34,11 +34,26 @@ h1{
     line-height: 72px;
     color: white;
 }
+.section-title{
+    font-family: "Oswald";
+    font-weight: 100;
+    font-size: 30px;
+    letter-spacing: 5%;
+    color: #343434;
+}
+.selecter_title{
+    font-family: "Oswald";
+    font-weight: 100;
+    font-size: 24px;
+    letter-spacing: 5%;
+    color: #343434;
+}
 h4{
     font-family: "Oswald";
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 200;
     letter-spacing: 5%;
+    color: white;
 }
 
 .sub__block__text{
@@ -50,7 +65,7 @@ h4{
     font-size: 16px;
     letter-spacing: 5%;
 }
-.adres, .email, .devoloper, .company{
+.address, .email, .devoloper, .company{
     font-family: "OpenSans-Regular";
     font-size: 14px;
 }
@@ -60,6 +75,6 @@ h4{
     font-size: 14px;
 }
 
-.phone, .email, .adres, .sub__block__text, .button-txt, .footer_item, .company, .devoloper{
+.phone, .email, .address, .sub__block__text, .button-txt, .footer_item, .company, .devoloper{
     color: white;
 }
